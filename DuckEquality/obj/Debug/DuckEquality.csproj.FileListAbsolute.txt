@@ -1,0 +1,6 @@
+C:\Development\DuckEquality\DuckEquality\bin\Debug\DuckEquality.exe.config
+C:\Development\DuckEquality\DuckEquality\bin\Debug\DuckEquality.exe
+C:\Development\DuckEquality\DuckEquality\bin\Debug\DuckEquality.pdb
+C:\Development\DuckEquality\DuckEquality\obj\Debug\DuckEquality.csprojResolveAssemblyReference.cache
+C:\Development\DuckEquality\DuckEquality\obj\Debug\DuckEquality.exe
+C:\Development\DuckEquality\DuckEquality\obj\Debug\DuckEquality.pdb
