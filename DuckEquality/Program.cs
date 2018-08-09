@@ -41,10 +41,9 @@ namespace DuckEquality
             WeightComparer sortByWeight = new WeightComparer();
             DuckList.Sort(sortByWeight);
 
-            Console.ResetColor();
-            Console.WriteLine("========================================");
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             Console.WriteLine("List of Ducks Ordered By Weight");
-            Console.WriteLine("========================================");
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 
             foreach (var duck in DuckList)
             {
